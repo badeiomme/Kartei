@@ -105,7 +105,7 @@
 \DeclareOption{a7paper}{%
 	\card@papersize=2%
 	\PassOptionsToPackage{paper=a7,pagesize}{typearea}%
-	\setlength{\card@hoffset}{-27pt}\setlength{\card@voffset}{42.5pt}%
+	\setlength{\card@hoffset}{-27pt}\setlength{\card@voffset}{45.5pt}%
 }%
 %A8 Cards
 \DeclareOption{a8paper}{
